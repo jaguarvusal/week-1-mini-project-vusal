@@ -1,0 +1,70 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    background-image: url("https://img.freepik.com/free-vector/watercolor-greek-border_23-2149239859.jpg?t=st=1734566479~exp=1734570079~hmac=555ad86691001ff701e965dc038222f51f6fab7c5108fcf8c39317f96aa39e9f&w=1380")
+}
+
+header{
+    color: white;
+    background-color: #0D5EAF;
+    font-size: 1.5em;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+}
+
+footer{
+    color: white;
+    background-color: #0D5EAF;
+    font-size: 1.5em;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+}
+
+header {
+    top: 0;
+    left: 0;
+}
+
+footer {
+    bottom: 0;
+    left: 0;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+main{
+    margin-top: 50px;
+}
+
+figure{
+    margin: 1em auto;
+    text-align: center;
+}
+
+form {
+    background-color: #865746;
+    color: white;
+    width: 300px;
+    font-size: 1.5em;
+    text-align:center;
+    padding: 1em;
+    border: 4px #F6ECDB dashed;
+    margin: 1em auto;
+}
+
+#submit-button{
+    font-size: 1.2em;
+    margin-top: 1em;
+}
